@@ -1,0 +1,2 @@
+2025-11-06 11:10:55,013 [INFO] Attempt 1/3 for do - args=() kwargs={}
+2025-11-06 11:10:57,017 [INFO] Success on attempt 1 for do (elapsed=2.004s)

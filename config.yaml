@@ -1,0 +1,8 @@
+base_url: ${HTTPBIN_BASE_URL}   # env interpolation (we will substitute)
+timeout: 10
+retry:
+  max_attempts: 3
+  backoff_seconds: 1
+rabbitmq:
+  host: localhost
+  port: 5672
